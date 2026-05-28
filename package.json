@@ -1,0 +1,15 @@
+{
+  "name": "jalali-timezone-converter",
+  "version": "1.0.0",
+  "description": "Convert Gregorian datetime to Jalali with timezone support (+07:30 default)",
+  "main": "index.js",
+  "keywords": [
+    "jalali",
+    "persian-date",
+    "timezone",
+    "iran",
+    "calendar"
+  ],
+  "author": "Amir Motafaker",
+  "license": "MIT"
+}
