@@ -12,3 +12,5 @@ A lightweight JavaScript function to convert Gregorian datetime to Jalali (Persi
 
 ```javascript
 TOJALALI("2026-06-11 22:30");
+پنجشنبه 21 خرداد 1405 ساعت 22:30
+پنجشنبه 21 خرداد 1405 ساعت 22:30
