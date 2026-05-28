@@ -67,4 +67,8 @@ function TOJALALI(datetime, offsetHours = 7, offsetMinutes = 30) {
   return `${weekday} ${jd} ${months[jm - 1]} ${jy} ساعت ${hour}:${minute}`;
 }
 
+<<<<<<< HEAD
 module.exports = TOJALALI;
+=======
+module.exports = TOJALALI;
+>>>>>>> 12f167ac1f92fd28e17c85da93f7a790ce8316a0

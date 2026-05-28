@@ -100,4 +100,8 @@ function TOJALALI(datetime) {
       + jy
       + " ساعت "
       + hour + ":" + minute;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 12f167ac1f92fd28e17c85da93f7a790ce8316a0
