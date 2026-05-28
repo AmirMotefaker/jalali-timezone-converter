@@ -1,16 +1,14 @@
 # Jalali Timezone Converter
 
-A lightweight JavaScript function to convert Gregorian datetime to Jalali (Persian calendar) with custom timezone support (+07:30).
+A JavaScript function to convert Gregorian datetime to Jalali with +07:30 timezone support.
 
 ## Features
-- Gregorian to Jalali conversion
-- Supports timezone offset (+07:30 default)
-- UTC-safe implementation
-- Lightweight and dependency-free
+- Jalali conversion
+- Timezone support
+- UTC-safe
 
 ## Usage
-
-```javascript
 TOJALALI("2026-06-11 22:30");
-پنجشنبه 21 خرداد 1405 ساعت 22:30
-پنجشنبه 21 خرداد 1405 ساعت 22:30
+
+## Author
+Amir Motafaker
