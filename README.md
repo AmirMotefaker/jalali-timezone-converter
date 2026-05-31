@@ -1,4 +1,4 @@
-# Jalali Timeone Converter
+# Jalali Timezone Converter
 
 A JavaScript function to convert Gregorian datetime to Jalali with +07:30 timezone support.
 
